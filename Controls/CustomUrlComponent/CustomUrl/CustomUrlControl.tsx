@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { IconButton, Text, Stack, Overlay, Popup, TextField, DefaultButton, PrimaryButton, Label, Link } from '@fluentui/react';
+import { IconButton, Stack, TextField, DefaultButton, PrimaryButton, Label, Link } from '@fluentui/react';
 import { IIconProps } from '@fluentui/react/lib/Icon';
 
 export interface CustomUrlControlProps {
